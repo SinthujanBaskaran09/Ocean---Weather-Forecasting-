@@ -1,0 +1,13 @@
+{
+  "background_color": "#000000",
+  "description": "Ocean - A clean, fast weather forecasting app.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ocean-weather-forecasting.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ocean-weather-forecasting.vercel",
+  "start_url": "/",
+  "theme_color": "#0000bc",
+  "id": "Ocean"
+}
